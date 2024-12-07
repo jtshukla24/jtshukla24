@@ -37,12 +37,9 @@ My immediate goal is to build robust backend systems and create full-stack appli
 ## 🌐 Let's Connect!
 Feel free to connect with me for any collaboration, learning opportunities, or tech discussion. I'm always open to new ideas and projects!
 
-## 🔭 Check out my projects
-- Recipe (https://github.com/jtshukla24/Recipe.git)
-  
+
 ## 🎯 Fun Fact
 When I'm not coding, you can find me exploring the latest tech trends, gaming, or hiking.
-
 
 
 ---
